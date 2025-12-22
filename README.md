@@ -171,8 +171,17 @@ Restarts services using Docker Compose
 
 Zero manual deployment steps required
 
-<img width="1807" height="863" alt="Screenshot 2025-12-20 035457" src="https://github.com/user-attachments/assets/f80108a2-8108-46b4-b9e9-16e8979c500c" />
+IMAGES OF PRODUCTION :
 
+<img width="1920" height="1080" alt="Screenshot 2025-12-18 034723" src="https://github.com/user-attachments/assets/81047619-f8fb-4572-85ae-8a37f47a2646" />
+<img width="1920" height="1080" alt="Screenshot 2025-12-20 031513" src="https://github.com/user-attachments/assets/10611c0a-d34a-42e2-a0ea-be05595fad09" />
+<img width="1804" height="867" alt="Screenshot 2025-12-20 035044" src="https://github.com/user-attachments/assets/03e98d83-0917-44d2-b3de-365e96a786d2" />
+<img width="1812" height="939" alt="Screenshot 2025-12-20 035329" src="https://github.com/user-attachments/assets/ecaf1031-1afc-4711-9a0f-96be5e2f7832" />
+<img width="1807" height="876" alt="Screenshot 2025-12-20 035346" src="https://github.com/user-attachments/assets/b472dde6-008c-4318-892d-1cf72bbc1d17" />
+<img width="1808" height="938" alt="Screenshot 2025-12-20 035403" src="https://github.com/user-attachments/assets/70754df6-e070-4c43-ae65-023114343f0d" />
+<img width="1803" height="947" alt="Screenshot 2025-12-20 035417" src="https://github.com/user-attachments/assets/a75b35ce-0061-4ac5-bdc4-ce85f563fa07" />
+<img width="1798" height="875" alt="Screenshot 2025-12-20 035439" src="https://github.com/user-attachments/assets/667fe2db-8e0c-4d78-863c-2f3cdd1672ca" />
+<img width="1807" height="863" alt="Screenshot 2025-12-20 035457" src="https://github.com/user-attachments/assets/b24079ba-085f-48d1-bf21-b67348b5395d" />
 
 🔐 Security Considerations
 
